@@ -4,7 +4,7 @@
 ### University of California, Riverside
 
 # What Is This?
-Welcome! This repo contains .ipynb Python notebooks that explore the Iris flower dataset using numerous machine learning methods and tools as listed, mostly written from scratch.
+Welcome! This repo contains .ipynb Python notebooks that explore the Iris flower dataset using numerous machine learning methods and tools as listed, mostly written from scratch. The aim is to walk through and teach you about ML methods and demonstrate the analysis of data from scratch.
 
 * Minkowski Distance
 * Distance Matrix
@@ -17,8 +17,6 @@ Welcome! This repo contains .ipynb Python notebooks that explore the Iris flower
 
 
 A PDF version of each notebook is included so that you do not have to run individual code pieces.
-
-The aim is to walk through ML methods and demonstrate the analysis of data from scratch.
 
 # How to Run This Thing
 To run these series, you need to use Jupyter Notebook, Google Colab, or any other notebook interpreter. I used Jupyter Lab installed on Anaconda.
